@@ -23,3 +23,13 @@
 10、write.py：将数据写入舵机内存控制表中
 
 二、其他代码分别涉及颜色、面部、手势识别等计算机视觉
+
+11.ColorDetection.py: 颜色识别
+
+12.DangerSignRecognition.py: 危险信号识别
+
+13.HandGesture.py: 手势识别
+
+14.RoadSignRecognition: 巡线（路线识别）
+
+15.YOLO.py: yolo算法（图像或视频中快速准确地识别和定位多个物体）
